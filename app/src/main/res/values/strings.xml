@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextRecognition</string>
+    <string name="title_activity_second">MainActivity</string>
+    <string name="title_home">Oku</string>
+    <string name="title_dashboard">Okuma Listesi</string>
+    <string name="title_notifications">Çıkış</string>
+</resources>
